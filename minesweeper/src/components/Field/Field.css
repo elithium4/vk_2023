@@ -1,0 +1,23 @@
+.field {
+    width: 524px;
+    padding: 16px;
+    background-color: #bcbcbc;
+    background-color: #bfbfbf;
+    border-right: 3px solid #7a7a7a;
+    border-bottom: 3px solid #7a7a7a;
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
+}
+
+.field-row {
+    display: flex;
+}
+
+.field-base {
+    background-color: #bfbfbf;
+    border-left: 3px solid #7a7a7a;
+    border-top: 3px solid #7a7a7a;
+    border-right: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    box-sizing: border-box;
+}
